@@ -1,10 +1,8 @@
 ### Yoo, I'm wenjuing 👋
- sunxyw/README.md
 Hi there 👋
 I am wenjuing from China who is a undergraduate and code-lover, loves Anime and Painting, always interested in new things, ready for discussions and making new projects.
 
-😄 Pronouns: He/him
-wenjuing's github stats
+😄 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=wenjuing)]()
 
 Programming Languages 🌐
 Know/Using
