@@ -1,6 +1,16 @@
 ### Yoo, I'm wenjuing 👋
 I am wenjuing from China who is a undergraduate and code-lover, also loves Anime and Painting.
 
-* I use daily:
-* I work using:[](https://img.shields.io/appveyor/build/wenjuing/wenjuing?color=%2334495e&label=C&logoColor=%232ecc71)
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=wenjuing&theme=dark" />
+
+🌱 I’m currently learning **C**, **Python** and **PHP**
+
+🔭 I’m currently coding Tool is **VScode**
+
+💬 Ask me about **Comics**, **Painting** and **Python**
+
+📫 How to reach me: **2515770452** on QQ
+
+⚡ Fun fact: Big Fan of Every **Comic Bueatiful Girls**
+
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=wenjuing)
