@@ -13,8 +13,4 @@ I am wenjuing from China who is a undergraduate and code-lover, also loves Anime
 ⚡ Fun fact: Big Fan of Every **Comic Bueatiful Girls**
 
 
-![fff](https://github.com/wenjuing/game/blob/master/sleepgril.jpg)
-
-![fff](https://img.shields.io/badge/少数派-SpencerWoo-da282a)
-
-![](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)
+![image](https://yzf.qq.com/fsnb/kf-file/kf_pic/20210317/KFPIC_kfh53e531627f2ee4c_h5551d9b2b2e22b7afe5a31ce40a_WXIMAGE_6772424e68344e9f88ebbf5a82074b8a.jpg)
