@@ -3,6 +3,8 @@
 I am wenjuing from China who is a undergraduate and code-lover, also loves Anime and Painting.
 <hr />
 
+> MOTTO : Persistence, Passionation, Positivity.
+
 🌱 I’m currently learning ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=a8b9cc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777bb4)
