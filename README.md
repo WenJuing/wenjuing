@@ -14,17 +14,13 @@ I am wenjuing from China who is a undergraduate and code-lover, also loves Anime
 
 💬 Ask me about **Comics**, **Painting** and **C**
 
-📫 How to reach me: **2515770452** on QQ
+📫 How to reach me: [bilibili](https://space.bilibili.com/359881460)  **2515770452** on QQ
 
 ⚡ Fun fact: Big Fan of Every **Comic Bueatiful Girls**
 
 ![](https://github-readme-stats.vercel.app/api?username=wenjuing&theme=merko)
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=wenjuing.readme)
-
-![](http://antzuhl.cn:4000/get/@wenjuing.readme)
-
 
 <!--START_SECTION:waka-->
 ```text
