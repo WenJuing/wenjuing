@@ -24,6 +24,7 @@ I am wenjuing from China who is a undergraduate and code-lover, also loves Anime
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 2 mins     ██████████████████████░░░   87.69 % 
+Other    8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 ```
 <!--END_SECTION:waka-->
