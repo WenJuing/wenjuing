@@ -26,11 +26,11 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 
 <!--START_SECTION:waka-->
 ```text
-C        4 hrs 44 mins   █████████████▒░░░░░░░░░░░   53.93 % 
-Python   3 hrs 29 mins   ██████████░░░░░░░░░░░░░░░   39.76 % 
-Other    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Git      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-JSON     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python   4 hrs 56 mins   ████████████░░░░░░░░░░░░░   48.25 % 
+C        4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   46.28 % 
+Other    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Git      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
 
