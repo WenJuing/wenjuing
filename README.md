@@ -26,8 +26,9 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 
 <!--START_SECTION:waka-->
 ```text
-C        12 hrs 14 mins  ████████████████████▓░░░░   82.58 % 
-Python   2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 % 
+C        13 hrs 40 mins  █████████████████████░░░░   83.77 % 
+Python   2 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Text     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
