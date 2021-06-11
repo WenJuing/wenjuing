@@ -26,7 +26,7 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 
 <!--START_SECTION:waka-->
 ```text
-C       2 hrs 39 mins   █████████████████████████   99.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
