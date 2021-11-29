@@ -26,11 +26,9 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 
 <!--START_SECTION:waka-->
 ```text
-C       13 hrs 14 mins  ████████████████████████▓   98.06 % 
-Text    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-PHP     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Other   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-C++     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+C          10 hrs 42 mins  ████████████████████████▓   98.71 % 
+Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+C++        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 
