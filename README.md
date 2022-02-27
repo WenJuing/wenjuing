@@ -25,9 +25,11 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wenjuing.readme)
