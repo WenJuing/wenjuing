@@ -27,7 +27,9 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C       15 mins         █████████████████████▓░░░   86.67 %
+C++     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Other   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
