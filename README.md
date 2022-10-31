@@ -1,17 +1,17 @@
 ### Yoo, I'm wenjuing 👋
 
-I am wenjuing from China who is a undergraduate and code-lover, also loves Anime and Painting.
+I am wenjuing from China who is a postgraduate about computer science and Technology and code-lover, also loves Anime and Painting.
 <hr style="border:1px solid grey"/>
 
 > MOTTO : Persistence, Passionation, Positivity.
 
-🌱 I’m currently learning **C**, **Python**, **PHP**
+🌱 I’m currently learning **PyTorch**, **Deep Learning**, **Machine Learning**
 
-🔭 I’m currently coding Tool is **VSCode**, **IJ IDEA**, **Git**
+🔭 I’m currently coding Tool is **VSCode**, **Git**
 
 💬 Ask me about **Comics**, **Painting** and **C**
 
-📫 How to reach me: [bilibili](https://space.bilibili.com/359881460) **2515770452** on QQ
+📫 How to reach me: [bilibili](https://space.bilibili.com/359881460) or id**2515770452** on QQ
 
 ⚡ Fun fact: Big Fan of Every **Comic Bueatiful Girls**
 
