@@ -27,12 +27,12 @@ Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&l
 <!--START_SECTION:waka-->
 
 ```text
-Python     19 hrs 29 mins  ███████████████████████▓░   95.01 %
-C#         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Git        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-MATLAB     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       16 hrs 34 mins  ███████████████████████░░   91.73 %
+C#           58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+SSH Config   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
