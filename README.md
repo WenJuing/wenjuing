@@ -1,28 +1,32 @@
-### Yoo, I'm wenjuing 👋
+<h1  align="center">Hi, I'm Wenjuing 👋</h1>
 
-I am wenjuing from China who is a postgraduate about computer science and Technology and code-lover, also loves Anime and Painting.
-<hr style="border:1px solid grey"/>
+I am a graduate student majoring in computer science and technology, currently studying at Jiangxi University of Finance and Economics. My main research field is Computer Vision.
 
-> MOTTO : Persistence, Passionation, Positivity.
 
-🌱 I’m currently learning **PyTorch**, **Deep Learning**, **Machine Learning**
+<p align="center"> PERSISTENCE:weary:, POSITIVITY:satisfied:, PASSIONATION:triumph: is ME:heart:</p>
 
-🔭 I’m currently coding Tool is **VSCode**, **Git**
+<h3>:four_leaf_clover:My Hobby</h3>
 
-💬 Ask me about **Comics**, **Painting** and **C**
+:book:Read papers, scan code, write code.
 
-📫 How to reach me: [bilibili](https://space.bilibili.com/359881460) or id**2515770452** on QQ
+:camera:I really want to buy a camera to record beautiful moments.
 
-⚡ Fun fact: Big Fan of Every **Comic Bueatiful Girls**
+📫 How to reach me, click there [bilibili](https://space.bilibili.com/359881460)
 
-![](https://github-readme-stats.vercel.app/api?username=wenjuing&theme=vue-dark)
+<h3>:thought_balloon:Data Overview</h3>
 
-Language : ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=a8b9cc)
+![](https://github-readme-stats.vercel.app/api?username=wenjuing&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>:fist:Code Tool</h3>
+
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=a8b9cc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777bb4)
-
-Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Visual–Studio–Code&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Visual–Studio–Code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
+
+<h3>:watch:Time Distribution</h3>
 
 <!--START_SECTION:waka-->
 
@@ -36,5 +40,9 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<h3>:trophy:Github Profile Trohpy</h3>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=wenjuing&row=1&theme=onedark)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wenjuing.readme)
