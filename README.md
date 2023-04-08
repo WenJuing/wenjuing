@@ -40,8 +40,4 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<h3>:trophy:Github Profile Trohpy</h3>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=wenjuing&row=1&theme=onedark)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=wenjuing.readme)
