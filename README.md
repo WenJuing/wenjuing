@@ -31,9 +31,7 @@ I am a graduate student majoring in computer science and technology, currently s
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 38 mins   ██████████████████████▒░░   89.68 %
-C#       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   4 hrs 11 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
