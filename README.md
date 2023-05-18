@@ -31,10 +31,9 @@ I am a graduate student majoring in computer science and technology, currently s
 <!--START_SECTION:waka-->
 
 ```text
-Python        7 hrs 59 mins   ███████████████████████▓░   94.01 %
-CSV           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Text          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   6 hrs 21 mins   ███████████████████████▓░   95.27 %
+CSV      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
