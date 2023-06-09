@@ -31,11 +31,11 @@ I am a graduate student majoring in computer science and technology, currently s
 <!--START_SECTION:waka-->
 
 ```txt
-Python        26 hrs 32 mins  ███████████████████████▒░   92.94 %
-CSV           1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-SSH Config    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Text          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-MATLAB        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python       23 hrs 8 mins   ███████████████████████░░   91.84 %
+CSV          1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+SSH Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
