@@ -31,8 +31,7 @@ I am a graduate student majoring in computer science and technology, currently s
 <!--START_SECTION:waka-->
 
 ```txt
-Python   42 mins         ██████████████████████▒░░   89.47 %
-Ezhil    4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
