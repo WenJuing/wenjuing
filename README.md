@@ -1,9 +1,8 @@
 <h1  align="center">Hi, I'm Wenjuing 👋</h1>
 
-I am a graduate student majoring in computer science and technology, currently studying at Jiangxi University of Finance and Economics. My main research field is Computer Vision.
+I am a graduate student majoring in computer science and technology, currently studying at Jiangxi University of Finance and Economics. My main research field is Computer Vision, Image Quality Assessment.
 
-
-<p align="center"> PERSISTENCE:weary:, POSITIVITY:satisfied:, PASSIONATION:triumph: is ME:heart:</p>
+<p align="center">PERSISTENCE, POSITIVITY, PASSIONATION</p>
 
 <h3>:four_leaf_clover:My Hobby</h3>
 
@@ -36,4 +35,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=wenjuing.readme)
+![](https://api.moedog.org/count/@wenjuing.readme)
