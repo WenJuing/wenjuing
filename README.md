@@ -8,7 +8,7 @@ I am a graduate student majoring in computer science and technology, currently s
 
 :book:Read papers, scan code, write code.
 
-:camera:I really want to buy a camera to record beautiful moments.
+:camera:Buy a camera to record beautiful moments.
 
 📫 How to reach me, click there [bilibili](https://space.bilibili.com/359881460)
 
